@@ -1,0 +1,13 @@
+{
+  "name": "クローゼット",
+  "short_name": "クローゼット",
+  "description": "写真から服を切り出して整理する、かわいいAIクローゼット。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fff5f7",
+  "theme_color": "#fff5f7",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

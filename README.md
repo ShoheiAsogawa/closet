@@ -17,7 +17,7 @@
 ## はじめ方
 
 ```bash
-git clone https://github.com/<your-username>/closet.git
+git clone https://github.com/ShoheiAsogawa/closet.git
 cd closet
 npm install
 cp .env.example .env
